@@ -1,2 +1,2 @@
 # Online-job-and-internship-portal
-This is my SE project for 2nd semester.
+This is Our database and SE project . Our group includes Abdul Basit khan . Muhammad luqman Sahi . Muhammad Abdullah 
